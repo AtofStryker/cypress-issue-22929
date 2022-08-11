@@ -1,0 +1,22 @@
+{
+  "name": "cypress-issue-22929",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtofStryker/cypress-issue-22929.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtofStryker/cypress-issue-22929/issues"
+  },
+  "homepage": "https://github.com/AtofStryker/cypress-issue-22929#readme",
+  "devDependencies": {
+    "cypress": "10.3.1"
+  }
+}
